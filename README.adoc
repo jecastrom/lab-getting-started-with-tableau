@@ -102,6 +102,9 @@ image::https://user-images.githubusercontent.com/63274055/154339981-2d775935-078
 
 image::https://user-images.githubusercontent.com/63274055/154340439-d0b75bd5-92f4-4cce-bde5-52e18b665b3b.png[width=600]
 
+====
+''''
+====
 
 To be able to create a barplot of the number of customers per gender, I had to set the `measure` to `Count(Distinct)`
 
