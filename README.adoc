@@ -122,9 +122,8 @@ image::https://user-images.githubusercontent.com/63274055/154347438-e6bc04e2-187
 ====
 {tab1}[Barplot of the number of customers per Gender]
 
-{tab2}[Barplot of the number of customers per EmploymentStatus and Gender
+{tab2}[Barplot of the number of customers per EmploymentStatus and Gender]
 
-]
 ====
 ''''
 ====
