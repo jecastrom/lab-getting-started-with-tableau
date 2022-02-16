@@ -131,7 +131,7 @@ image::https://user-images.githubusercontent.com/63274055/154347438-e6bc04e2-187
 
 xref:Lab-Getting-started-with-Tableau[Top Section]
 
-xref:Last-section[Bottom section]
+
 
 //bla bla blafootnote:[{fn-xxx}]
 
