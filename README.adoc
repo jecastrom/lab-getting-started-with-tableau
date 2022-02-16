@@ -73,10 +73,37 @@ toc::[]
 * Identify Measurements and Dimensions. Are they the same as the ones in your Pandas dataframe? Modify accordingly
 
 
+`*_Answer:_*`
+
+Cleaning the data with python:
+
+```python
+import numpy as np
+import pandas as pd
+```
+
+```python
+df = pd.read_csv('we_fn_use_c_marketing_customer_value_analysis.csv')
+df.columns = [df.columns[col_name].lower().replace(' ','_') for col_name in range(len(df.columns))]
+df.set_index('customer', inplace=True)
+df.to_excel('df_data.xlsx', sheet_name='data')
+```
+[NOTE]
+====
+Here I cleaned the data on the csv file by creating a DataFrame, renamed the columns so they follow the PE8 (snake case), set the customer column as index so we don't have to deal with an number index column in Tabeau.
+Then I exported the DataFrame as an excel file .xlsx
+====
 
 
 
-{script-url}[Solutions script only]
+
+image::https://user-images.githubusercontent.com/63274055/154339981-2d775935-0787-476c-a6b0-c2570d1709c1.png[width=600]
+
+
+image::https://user-images.githubusercontent.com/63274055/154340439-d0b75bd5-92f4-4cce-bde5-52e18b665b3b.png[width=600]
+
+
+//{script-url}[Solutions script only]
 
 ====
 ''''
