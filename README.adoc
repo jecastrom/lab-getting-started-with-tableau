@@ -110,7 +110,7 @@ To be able to create a barplot of the number of customers per gender, I had to s
 
 image::https://user-images.githubusercontent.com/63274055/154342573-05a1b491-f071-4553-ad81-b7e716cb8480.png[width=600]
 //{script-url}[Solutions script only]
-image::https://user-images.githubusercontent.com/63274055/154346093-918a68fd-c5ee-4f5e-a58d-4b5901315107.png[width=600]
+image::https://user-images.githubusercontent.com/63274055/154346093-918a68fd-c5ee-4f5e-a58d-4b5901315107.png[width=400]
 ====
 ''''
 ====
