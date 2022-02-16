@@ -106,7 +106,7 @@ image::https://user-images.githubusercontent.com/63274055/154340439-d0b75bd5-92f
 ''''
 ====
 
-To be able to create a barplot of the number of customers per gender, I had to set the `measure` to `Count(Distinct)`
+To be able to create a barplot of the number of customers per gender, I had to set the `measure` of the customer column to `Count(Distinct)`
 
 image::https://user-images.githubusercontent.com/63274055/154342573-05a1b491-f071-4553-ad81-b7e716cb8480.png[width=600]
 //{script-url}[Solutions script only]
