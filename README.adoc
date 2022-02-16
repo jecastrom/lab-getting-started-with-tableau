@@ -6,6 +6,8 @@
 :description:
 :script-url: 
 //:fn-xxx: Add the explanation foot note here bla bla
+:tab1: https://public.tableau.com/views/unit-4-lab_1/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+:tab2: https://public.tableau.com/views/unit-4-lab_2/Sheet2?:language=en-GB&:display_count=n&:origin=viz_share_link
 :toc:
 :toc-title: Refer to the files_for_lab/we_fn_use_c_marketing_customer_value_analysis.csv dataset.
 :toc-placement!:
@@ -118,7 +120,11 @@ image::https://user-images.githubusercontent.com/63274055/154347438-e6bc04e2-187
 ====
 ''''
 ====
+{tab1}[Barplot of the number of customers per Gender]
 
+{tab2}[Barplot of the number of customers per EmploymentStatus and Gender
+
+]
 ====
 ''''
 ====
